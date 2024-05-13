@@ -6,7 +6,7 @@ understanding of the forces that impact our world so that you may
 advance the workings of Chaos beyond the boundaries of Ashtan.
 
 Concept of Progression:
-| | Prior to your assessment, check TASKS ALL and complete any tasks
+|x| Prior to your assessment, check TASKS ALL and complete any tasks
 remaining.
 
 | | Consider your future growth as a citizen of Ashtan. Be willing to
