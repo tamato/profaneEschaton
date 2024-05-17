@@ -29,13 +29,13 @@ graduate.
 Reference: TASK 211, 212, 213
 
 Concept of Ashtan:
-| | Review the city laws (CHELP LAWS) located at the Standards of
+|x| Review the city laws (CHELP LAWS) located at the Standards of
 Ambition due north of the Main Gates. You may need to PUSH, PULL, or
 TURN the PLINTH to view all legislation relevant to the Seat of Chaos'
 citizens. Be ready to be tested on your knowledge. 
 Reference: TASK 209
 
-| | Familiarize yourself with The Ruinous Accords located at the main
+|x| Familiarize yourself with The Ruinous Accords located at the main
 gates of the city. Be prepared to discuss the vision you're granted
 while you READ the TABLET, as well as the obligations we as Ashtani
 share and the mutually beneficial nature of our pact with the Chaos
@@ -46,7 +46,7 @@ TASK 210
 how to help fill it. Use CHELP FONT as a guide in order to contribute to
 our city font. Reference: TASK 241
 
-| | Read CHELP CREED. Ensure you fully understand the oath and its
+|x| Read CHELP CREED. Ensure you fully understand the oath and its
 ramifications, then be prepared to swear it as the final part of your
 assessment before graduating from the Academy of Ascension.
 
