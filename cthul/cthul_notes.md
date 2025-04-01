@@ -7,12 +7,10 @@ HELP ARTEFACTSDEFENSIVE
 Bracelts for HP/Mana
 Sip Rings
 Diadem,
-
-## Veil
-??
+Collar for magic damage. , got first 1
 
 ## Magic damage collar
-A COLLAR of Ceylon:                                           400 Credits
+A COLLAR of Ceylon:                                           400 Credits - HAVE
 Artefact power: magic_damage
  - This COLLAR increases the damage of your magical attacks by 10%.
  - These COLLARs increase damage done to opponents from abilities that are magical in nature. These abilities include cast (or grove) lightning, cast firelash,
@@ -55,10 +53,7 @@ Fracture: then the obvious generic bashing arties like Maya Figurine, artifact a
 Whispers of Chaos, for the occultist language.
 Lhirhjen e'Ekawr - Whispers of Chaos.
 
-def list in gui
-
 read through PROJECT 100, by Boosteya
-
 
 things to tie in with 
     moon tarot
@@ -69,16 +64,6 @@ things to tie in with
 
 command separators
 
-Scriptings notes from teh devs
-readnews ANNOUNCE 5453
- - If you use svof, why do you use svof?
- - If you use wsys, why do you use wsys?
- - If you use nexsys, why do you use nexsys?
- - For any other script packages you use, what is it that you can't live without, and why?
- - For your personal scripts, what have you gone out of your way to code, and why?
-    ISCRIPT ON <client> BECAUSE <reason>
-
-
 Emote list
     emote (clean's off the debirs from @statue,) showing respect to the anciet Chaos Lord.
     emote approaches @statue
@@ -86,17 +71,7 @@ Emote list
 Auto curing
     HELP CURING SYSTEM
 
-[ ] CLHELP IOE. 
-    The Institute of Entropy welcomes all manner of
-    combat related questions, and offers a specialized curriculum revolving
-    around preparation and training for raids and defences.
-
-
-HHELP huntingtips
-    Get a 'jera' rune from a runewarden, more str and hp
-
 READ list
-    CLHELP IOE
     Rituals of Ruin, from HHelp keyrite
     CHELP keyrite
     clhelp saco
@@ -137,7 +112,7 @@ A huge collar for Hellitha
 Some box was found here too. Karma?
 
 
-hrall experiment
+thrall experiment
 --------------------
 insane ayslum
 constant mist of the herb that keeps people awake.
@@ -164,14 +139,6 @@ clearly 1. At least in my mind."
 (Academy of Ascension): Tkarius says, "In slightly more general case, the 
 choice might not be so clear but I do like the analogy."
 (Academy of Ascension): Tkarius says, "Thank you."
-
-
-
-
-
-
-
-
 
 
 ---------------------------

@@ -10,6 +10,15 @@ MARDUK commands...
     force them to use generostiy, use up eqbal
     force them to use compose, use up eqbal
     clear out their command queue?
+
+
+Block healing of limb by keeping Anorexia stuck
+------------------------------------------------------------
+If the target keeps anorexia as a high priority afflictin to heal, then maybe they will keep broken limbs
+If they prefer to heal limbs, then the won't be able to cure whisper/englighten afflictions
+
+Steps
+
         
 Possible ways to defeat someone
 --------------------------------

@@ -1,42 +1,43 @@
-afflication     | Gives                 | Whisper   | Enlighten
----------------------------------------------------------------
-shyness         | Devolve,Cadmus,P      |           | x
-hallucinations  | Moon, Buul            | x         | x
-claustrophobia  | Moon, Buul,Cadmus,P   | x         | x
-agoraphobia     | Moon, Buul            | x         | x
-hypersomnia     | Moon,                 | x         | x
-epilepsy        | Moon,                 | x         | x
-paranoia        | Cadmus,P              | x         | x
-vertigo         | Danaues,Cadmus,P      |           | x
-impatience      |                       | x         |
-addiction       | nemesis               | x         | x
-lovers          | lovers                | x         | x
-loneliness      | Moon,Compel           | x         | x
-recklessness    | Moon, Cadmus,P        | x         | x
-masochism       | Moon, Cadmus,P        | x         | x
-confusion       | Moon, Buul,Cad,Unnam  | x         | x
-stupidity       | Moon, Unnam,CR        | x         | x
-dementia        | Unnam,Buul            |           | x
- ----------------------------------------------------------
-paralysis       | Instill, Nin'kh, CR
-aeon            | ChaosRays(CR), tarot aeon
-asthma          | Instill, Cadmus
-clumsiness      | Instill
-healthleech     | Instill,Palpatar, Nemsis,P
-sensitivity     | Instill
-slickness       | Instill,Cadmus*
-darkshade       | Instill
-dizziness       | Eerion, Compel
-haemophilia     | Scrag
-ablaze          | Pyridus,P
-nausea          | Palpatar,P
-prone           | Regress, Buul,P
-sleep           | Buul,P
-weariness       | Lycantha
-wither          | Hecate
-shiver/cold     | Ague
-anorexia        | Regress,Pyradius,P
-manaleech       | ruinated lovers
+afflication     | Gives                 | Whisper   | Enlighten | Cure
+---------------------------------------------------------------------------
+shyness         | Devolve,Cadmus,P      |           | x         | eat, goldenseal/plumbum
+hallucinations  | Moon, Buul            | x         | x         | eat, ash/stannum
+claustrophobia  | Moon, Buul,Cadmus,P   | x         | x         | eat, lobelia/argentum
+agoraphobia     | Moon, Buul            | x         | x         | eat, lobelia/argentum
+hypersomnia     | Moon,                 | x         | x         | eat, ash/stannum
+epilepsy        | Moon,                 | x         | x         | eat, goldenseal/plumbum
+paranoia        | Cadmus,P              | x         | x         | eat, ash/stannum
+vertigo         | Danaues,Cadmus,P      |           | x         | eat, lobelia/argentum
+impatience      |                       | x         |           | eat, goldenseal/plumbum
+addiction       | nemesis               | x         | x         | eat, ginseng/ferrum
+lovers          | lovers                | x         | x         | eat, bellwort/cuprum
+loneliness      | Moon,Compel           | x         | x         | eat, lobelia/argentum
+recklessness    | Moon, Cadmus,P        | x         | x         | eat, lobelia/argentum
+masochism       | Moon, Cadmus,P        | x         | x         | eat, lobelia/argentum
+confusion       | Moon, Buul,Cad,Unnam  | x         | x         | eat, ash/stannum
+stupidity       | Moon, Unnam,CR        | x         | x         | eat, goldenseal/plumbum
+dementia        | Unnam,Buul            |           | x         | eat, ash/stannum
+
+---------------------------------------------------------------------------
+paralysis       | Instill, Nin'kh, CR                           | eat, bloodroot/magnesium
+aeon            | ChaosRays(CR), tarot aeon                     | smoke, elm/cinnabar
+asthma          | Instill, Cadmus                               | eat, kelp/aurum
+clumsiness      | Instill                                       | eat, kelp/aurum
+healthleech     | Instill,Palpatar, Nemsis,P                    | eat, kelp/aurum
+sensitivity     | Instill                                       | eat, kelp/aurum
+slickness       | Instill,Cadmus*                               | eat, bloodroot/Manesium. smoke, valerian/realgar
+darkshade       | Instill                                       | eat, ginseng/ferrum
+dizziness       | Eerion, Compel                                | eat, goldenseal/plumbum
+haemophilia     | Scrag                                         | eat, ginseng/ferrum
+ablaze          | Pyridus,P                                     | apply, mending
+nausea          | Palpatar,P                                    | eat, ginseng/ferrum
+prone           | Regress, Buul,P                               | stand
+sleep           | Buul,P                                        | preped with Cohosh/Gypsum
+weariness       | Lycantha                                      | eat, kelp/aurum
+wither          | Hecate                                        | apply, mending, If broken then apply Restoration
+shiver/cold     | Ague                                          | apply, caloric. Prep for it too.
+anorexia        | Regress,Pyradius,P                            | apply, epidermal
+manaleech       | ruinated lovers                               | smoke, valerian/realgar
 
 Pyradius
 - Whisperingmadness becomes recklessness.
